@@ -5,3 +5,10 @@ each character in the new string is ___"("___ if that character appears
 only once in the original string, or ___")"___ if that character appears more
 than once in the original string. Ignore capitalization when determining 
 if a character is a duplicate. 
+### Examples
+~~~~
+"din"      =>  "((("
+"recede"   =>  "()()()"
+"Success"  =>  ")())())"
+"(( @"     =>  "))((" 
+~~~~
